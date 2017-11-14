@@ -1,0 +1,52 @@
+.pseudodanstop10{
+    color: black;
+    
+}
+.positiondanstop10{
+    display: inline;
+    color: darkcyan;
+    font-size: 1.5em;
+    width: 50%;
+    text-align: right;
+}
+.positionclassementperso{
+    display: inline;
+    color: darkcyan;
+    font-size: 1.5em;
+    width: 50%;
+    text-align: right;
+}
+#top10{
+    margin: auto;
+    text-align: center;
+    border-right: rgb(222,220,233,1) 1px solid;
+    border-left: rgb(222,220,233,1) 1px solid;
+    
+}
+
+#classementperso{
+    margin: auto;
+    text-align: center;
+    border-right: rgb(222,220,233,1) 1px solid;
+    border-left: rgb(222,220,233,1) 1px solid;
+    
+}
+.divpseudotop10{
+    width: 50%;
+}
+.divpseudoclassementperso{
+     width: 50%;
+}
+table, td, th{
+border-collapse: collapse;
+text-align: center;
+}
+.divpseudotop10{
+    text-align: center;
+}
+profile{
+    width: 100%;
+}
+#classementmessage{
+    margin-top: 15px;
+}

@@ -1,0 +1,23 @@
+@font-face{
+    font-family: 'code';
+    src: url('CODE light.otf');
+}
+.labelinscri{
+    display: block;
+    width: 200px;
+    float: left;
+}
+h1{
+    margin-bottom: 50px;
+}
+#inscriptionbutton{
+    margin-top: 30px;
+}
+
+.errmsginscri{
+    display: inline-block;
+    color: red;
+}
+.inputinscri{
+    margin-bottom: 20px;
+}

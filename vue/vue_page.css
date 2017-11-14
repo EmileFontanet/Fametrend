@@ -1,0 +1,69 @@
+.pagezone{
+    display: flex;
+}
+#ladderwelcomemessage{
+    font-size: 2.5em;
+    margin-bottom: 30px;
+}
+#page{
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-left: 200px;
+    margin-top:50px;
+    background-color:rgb(255,255,255);
+    /*margin-right: 5px;
+    margin-left: 5px;*/
+    width: 65%;
+    /*width: 1200px; */
+    height: auto;
+}
+.displayedstar{
+
+    margin-bottom: 30px;
+}
+body{
+    background-color:rgb(255, 255, 255);
+}
+
+.canva1{
+    background-color: rgb(20,104,208)  ;
+    
+}
+.canva2{
+    background-color:rgb(20,104,208);
+}
+.canva3{
+    background-color:rgb(20,104,208);
+    
+}
+.canva4{
+    background-color:rgb(20,104,208);
+}
+
+.canva5ouplus{
+    background-color: rgb(20,104,208);
+    
+}
+
+.first{
+    font-size: 2.2em;
+    margin-right: 25px;
+    display: inline;
+}
+.second{
+    font-size: 2em;
+    margin-right: 25px;
+    display: inline;
+}
+.third{
+    font-size: 1.8em;
+    margin-right: 25px;
+    display: inline;
+}
+.nottop3{
+    font-size: 1.4em;
+}
+#pageslink{
+    margin: auto;
+    text-align: center;
+}

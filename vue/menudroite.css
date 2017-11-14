@@ -1,0 +1,36 @@
+#menudroite{
+    position: fixed;
+    right: 0px;
+    top:51px;
+    width: 11.8%;
+    max-width: 160px;        
+    height:94.2%;
+    border-top: 1 px black solid;
+    border-left: 1px black solid;
+    margin-right: 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color:rgb(235,235,235);
+    
+}
+#formconnex{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.textzoneconnex{
+    border-radius: 6px;
+    margin-bottom: 10px;
+    
+}
+#interfaceconnexion{
+    text-align: center;
+}
+#interfaceconnexion a{
+    color: rgb(60,63,65,1) ;
+    
+}
+#deconnexionbutton{
+}
